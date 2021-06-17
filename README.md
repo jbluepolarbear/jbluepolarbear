@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jeremy Anderson
+- 👀 I’m interested in Video Games and Multiplayer Networking
+- 🌱 I’m currently learning everything I can about Multiplayer Networking
